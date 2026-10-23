@@ -1,1 +1,3 @@
 # exemplo-git-parte2
+
+Texto modificado dentro da branch atv solut
